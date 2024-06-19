@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095345467507",
+    "project_id": "fir-lms-ea385",
+    "storage_bucket": "fir-lms-ea385.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095345467507:android:59bcade50e1804621d3a06",
+        "android_client_info": {
+          "package_name": "com.example.firebase_lms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg6GDXK6nur8LuVkxPv5f2QZjRbS_ykwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
